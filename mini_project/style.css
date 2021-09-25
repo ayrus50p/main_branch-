@@ -1,0 +1,117 @@
+body {font-family: sans-serif;
+      background-image: linear-gradient( 235deg,  rgb(59, 204, 217) 29.5%, rgb(63, 242, 248) 122.5% );
+       width:100%;
+       margin:0;
+       padding:0;
+       direction:ltr;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;   }
+       a {color:#000;}
+.head {background:#fff;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding:15px; 
+  border-bottom: 1px solid #ddd;
+  position: fixed;
+}
+.list {background: #fff; border-bottom: 1px solid #ddd; padding: 7px ; display: block; padding-left: 15px; padding-bottom: 7.5px;}
+
+.content {background-image: linear-gradient( 235deg,  rgb(59, 204, 217) 29.5%, rgb(63, 220, 248) 122.5% );
+          border: none;
+          padding: 10px;
+          display: block;
+          margin: 7px;
+          border-radius: 5px;
+          box-shadow: 0 4px 8px 0 rgba(1, 2, 3, 0.2), 0 0px 100px 0 rgba(0, 0, 0, 0.19); 
+          height: 55%;
+          width: 80%;
+          margin-top: 10%;}
+          
+        
+          
+         
+input
+{
+-webkit-user-select: auto !important;
+-khtml-user-select: auto !important;
+-moz-user-select: auto !important;
+-ms-user-select: auto !important;
+user-select: auto !important;
+}
+
+.content2 {
+  height:65%;
+  width: 25%;
+  box-shadow: 0 4px 8px 0 rgba(1, 2, 3, 0.2), 0 0px 12px 0 rgba(0, 0, 0, 0.19);
+  background: #fff;
+  margin-top: -100px;
+  position: absolute;
+  display: block;
+  align-items: center;
+  margin-left: 27%;
+
+}
+
+
+.content3 {
+  height:65%;
+  width: 25%;
+  box-shadow: 0 4px 8px 0 rgba(1, 2, 3, 0.2), 0 0px 12px 0 rgba(0, 0, 0, 0.19);
+  background: #fff;
+  margin-top: -120px;
+  position: absolute;
+  display: block;
+  padding-left: 0px;
+  text:center;
+  margin-left: 27%;
+
+}
+.max {
+  background: #E5E5E5;
+  padding: 20px;
+  text-align: center;
+  font-size:25px;
+
+
+}
+.txt {
+font-size: 55pt;
+color: white;
+margin-top: 3%;
+
+}
+
+input[type=text] {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 12px;
+  width: 90%;
+  margin: 5px;
+
+}
+
+select {color: gray;
+  background: white;
+  border: 1px solid #ddd;
+  padding: 12px;
+  width: 90%;
+  margin: 5px;
+
+}
+input[type="submit"] {
+  background: #ff008c;
+  color: white;
+  padding: 10px;
+  padding-bottom: 10px;
+  padding-right: 18px;
+  width: 90%;
+  margin: 6px;
+  border: 5px solid #C52E69;
+  outline: #fff;
+  -webkit-appearance: inherit;
+
+}
